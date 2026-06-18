@@ -2,8 +2,7 @@
 
 **`Software Engineer`**
 <p>Pursuing bachlors in data sceince from Michigan State Univerity </p>
-<p>Completed computer sceince associates from Lansing Community College</p>
----
+<p>Completed computer science associates from Lansing Community College</p>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
