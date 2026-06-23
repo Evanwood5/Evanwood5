@@ -1,14 +1,14 @@
 ## Hello, I'm Evan Wood👋
 
-#Experience
+# Experience
 <p>5+ years of Software Engineering experience </p>
 <p> 2+ years of industry experience </p>
 
-#Education
+# Education
 <p>Pursuing a Bachelor's in Data Science from Michigan State University </p>
 <p>Completed an Associate's in Computer Science from Lansing Community College</p>
 
-#LinkedIn
+# LinkedIn
 <p>https://www.linkedin.com/notifications/?filter=all </p>
 
 
