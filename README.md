@@ -8,8 +8,8 @@
 <p>Pursuing a Bachelor's in Data Science from Michigan State University </p>
 <p>Completed an Associate's in Computer Science from Lansing Community College</p>
 
-**`Links`**
-https://www.linkedin.com/notifications/?filter=all
+**`LinkedIn`**
+<p>https://www.linkedin.com/notifications/?filter=all </p>
 
 
 # Tech Stack
