@@ -1,8 +1,13 @@
 ## Hello, I'm Evan Wood👋
 
-**`Software Engineer`**
+**`Education`**
 <p>Pursuing a Bachelor's in Data Science from Michigan State University </p>
 <p>Completed an Associate's in Computer Science from Lansing Community College</p>
+
+**`Links`**
+<p>Pursuing a Bachelor's in Data Science from Michigan State University </p>
+https://www.linkedin.com/notifications/?filter=all
+
 
 # Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
